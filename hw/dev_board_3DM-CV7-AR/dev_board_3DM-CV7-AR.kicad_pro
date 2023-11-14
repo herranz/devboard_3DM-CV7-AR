@@ -430,6 +430,23 @@
       {
         "bus_width": 12,
         "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Power",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.5,
+        "via_diameter": 0.9,
+        "via_drill": 0.5,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
         "diff_pair_gap": 0.1524,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.242062,
@@ -453,11 +470,35 @@
     "netclass_patterns": [
       {
         "netclass": "USB",
-        "pattern": "USB1"
+        "pattern": "/D+"
       },
       {
-        "netclass": "Default",
-        "pattern": ""
+        "netclass": "USB",
+        "pattern": "/D-"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/D_conn-"
+      },
+      {
+        "netclass": "USB",
+        "pattern": "/D_conn+"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "+5V"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "VBUS"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "+3V3"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "+5VD"
       }
     ]
   },
@@ -467,7 +508,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "dev_board_3DM-CV7-AR.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -497,7 +538,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "C:/Users/HerranzB/OneDrive - HP Inc/CarpetaPersonal/devboard_3DM-CV7-AR/Schematic_devboard_3DM-CV7-AR",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,

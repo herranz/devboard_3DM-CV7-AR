@@ -1,0 +1,66 @@
+Importer Log Report
+Document: C:\Users\HerranzB\OneDrive - HP Inc\CarpetaPersonal\devboard_3DM-CV7-AR\hw\dev_board_3DM-CV7-AR\dev_board_3DM-CV7-AR.kicad_pcb
+    Section : Analyze Document from - C:\Users\HerranzB\OneDrive - HP Inc\CarpetaPersonal\devboard_3DM-CV7-AR\hw\dev_board_3DM-CV7-AR\dev_board_3DM-CV7-AR.kicad_pcb
+    EndSection
+    Section : Import Document - C:\Users\HerranzB\OneDrive - HP Inc\CarpetaPersonal\devboard_3DM-CV7-AR\hw\dev_board_3DM-CV7-AR\Imported dev_board_3DM-CV7-AR\dev_board_3DM-CV7-AR(1).PcbDoc
+        Section : Component R3 importing.
+        EndSection
+        Section : Component MC5 importing.
+        EndSection
+        Section : Component R4 importing.
+        EndSection
+        Section : Component MC4 importing.
+        EndSection
+        Section : Component C2 importing.
+        EndSection
+        Section : Component IMU1 importing.
+        EndSection
+        Section : Component R2 importing.
+        EndSection
+        Section : Component J1 importing.
+        EndSection
+        Section : Component USB1 importing.
+        EndSection
+        Section : Component C3 importing.
+        EndSection
+        Section : Component LD2 importing.
+        EndSection
+        Section : Component SEL1 importing.
+        EndSection
+        Section : Component LD1 importing.
+        EndSection
+        Section : Component R1 importing.
+        EndSection
+        Section : Component MC6 importing.
+        EndSection
+        Section : Component CH1 importing.
+        EndSection
+        Section : Component C1 importing.
+        EndSection
+        Section : Component R5 importing.
+        EndSection
+        Section : Component LD3 importing.
+        EndSection
+        Section : Component U1 importing.
+        EndSection
+        Section : Component U2 importing.
+        EndSection
+        Section : Component C5 importing.
+        EndSection
+        Section : Component C4 importing.
+        EndSection
+        Section : Component F2 importing.
+        EndSection
+        Section : Component R7 importing.
+        EndSection
+        Section : Component F1 importing.
+        EndSection
+        Section : Component R6 importing.
+        EndSection
+        Section : Component MC1 importing.
+        EndSection
+        Section : Component MC3 importing.
+        EndSection
+        Section : Component MC2 importing.
+        EndSection
+    EndSection

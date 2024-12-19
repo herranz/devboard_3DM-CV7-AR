@@ -15,7 +15,7 @@
   
   </h4>
 
-<img src="TEST" alt="image" width="100" height="auto" />
+<img src="https://github.com/herranz/devboard_3DM-CV7-AR/blob/main/img/dev_board_3DM-CV7-AR_2.png" alt="image" width="500" height="auto" />
   
   
 </div>
@@ -30,6 +30,7 @@
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 * [License](#license)
@@ -71,17 +72,12 @@ The board is self-powered when used with USB (preferred mode). If USB is not use
 Project is: __COMPLETE__ 
 
 
-<!--## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+## Room for Improvement
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- Fix Silkscreen nomenclature for the Rs and Us in the UART led indicators
 
-To do:
-- Feature to be added 1
-- Feature to be added 2
--->
+
 
 ## Acknowledgements
 - Thanks to caffeine, my soldering iron, and gravity for keeping this project (mostly) grounded. 

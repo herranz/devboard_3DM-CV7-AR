@@ -89,6 +89,6 @@ Created by [@herranz]- feel free to contact me!
 
 
  ## License 
- This project is open source and available under the [... License]().
+ This project is open source and available under the **CERN-OHL-S-2.0 license**
 
- You don't have to include all sections - just the one's relevant to your project 
+

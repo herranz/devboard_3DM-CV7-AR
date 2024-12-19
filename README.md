@@ -1,5 +1,28 @@
-# Project Name
-> Outline a brief description of your project.
+<div align="center">
+
+
+  
+  <h1> DevBoard 3DM-CV7-AR </h1>
+  <p> DevBoard for the Parker 3DM-CV7-AR IMU </p>
+
+
+<!-- Badges -->
+
+<h4>
+    <a href="https://bsky.app/profile/herranz.bsky.social">BLUESKY</a>
+  <span> · </span>
+    <a href="https://www.github.com/herranz">GITHUB</a>
+  
+  </h4>
+
+<img src="TEST" alt="image" width="100" height="auto" />
+  
+  
+</div>
+
+<br />
+
+<div>&nbsp;</div>
 
 ## Table of Contents
 * [General Info](#general-information)
